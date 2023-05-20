@@ -31,5 +31,5 @@ jobs:
           file: ./Dockerfile_prod
           push: true
           tags: |
-            piotrpaslawski99/lab
+            piotrpaslawski99/lab_basic
           
